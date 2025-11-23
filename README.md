@@ -134,13 +134,14 @@ The dataset contains **25,000+ retail transactions** with the following attribut
 ## 📁 Project Files
 
 ```
-📦 DMart_Insights_Dashboard
- ┣ 📄 DMart_Dataset.csv
- ┣ 📄 DMart_Dashboard.pbix
+📦 DMart-Sales-Dashboard
+ ┣ 📁 images
+ ┃  ┗ dashboard.png
+ ┣ 📄 Dmart+Dataset_Tableau.csv
  ┣ 📄 README.md
- ┗ 📄 Final_Report.pdf  (optional)
+ ┗ 📄 DMart.pbix
 ```
-
+dashboard.png
 ---
 
 ## ✨ Author
