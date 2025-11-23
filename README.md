@@ -151,6 +151,5 @@ The dataset contains **25,000+ retail transactions** with the following attribut
 ---
 
 ## 📸 Dashboard Preview
-<p align="center">
-  <img src="DMart-Sales-Operational-Dashboard/images/dashbord.png" width="850"/>
-</p>
+![Dashboard](https://github.com/Ruchali123/DMart-Sales-Operational-Dashboard/blob/main/dashboard.png)
+
